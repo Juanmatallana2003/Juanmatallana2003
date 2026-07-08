@@ -30,7 +30,7 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA), recién egresado y list
 | Proyecto | Descripción |
 |---|---|
 | 🎓 **Eventos SENA** ([Backend](https://github.com/Eventos-Sena/BackEnd_TS) · [Frontend](https://github.com/Eventos-Sena/FrontEnd)) | Sistema de gestión de eventos para el área de Bienestar del Aprendiz del SENA, desarrollado en equipo (backend en TypeScript + frontend). |
-| 🏁 **[Vortex](https://github.com/Juanmatallana2003/Vortex-Sena)** | Proyecto formativo de presentación final del tecnólogo. En proceso de mejora para llevarlo a una versión 100% funcional. |
+| 🏁 **[Vortex](https://github.com/Juanmatallana2003/Vortex-Sena)** | Proyecto formativo de presentación final del tecnólogo. En proceso de mejora. |
 | 🏦 **[BancoCy](https://github.com/Juanmatallana2003/BancoCy)** | Demo de un sistema bancario (login y transferencias) construido para practicar pruebas automatizadas end-to-end con Cypress. |
 | 🖥️ **[NOXARA](https://github.com/Juanmatallana2003/NOXARA)** | Prototipo de marketplace de tecnología para la compra de componentes de PC (torres, periféricos, setups). |
 | 🌐 **Landing pages** ([Depiel](https://github.com/Juanmatallana2003/Depiel) · [CesarGym](https://github.com/Juanmatallana2003/CesarGym)) | Diseño y desarrollo de sitios de una sola página para negocios locales de Armenia, Quindío. Proyectos demostrativos. |
