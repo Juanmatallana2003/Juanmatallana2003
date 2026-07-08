@@ -1,23 +1,20 @@
-<h1 align="center">Juan David Bernal Matallana</h1>
-<h3 align="center">Full Stack Developer · JavaScript · TypeScript · Python · Java · React / Next.js</h3>
-
 <p align="center">
-  <a href="mailto:adijuab@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/juan-david-bernal-matallana-17973438b/">LinkedIn</a> ·
-  <a href="#english">🇬🇧 English version</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:3178C6&height=180&section=header&text=Juan%20David%20Bernal%20Matallana&fontColor=ffffff&fontSize=32&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=3178C6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Python+%7C+Java;React+%2F+Next.js;Remote+%7C+On-site+%7C+Hybrid" alt="Typing SVG"/>
 </p>
 
----
+<p align="center">
+  <a href="mailto:adijuab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/juan-david-bernal-matallana-17973438b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Juanmatallana2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center"><a href="#english">🇬🇧 Read in English ↓</a></p>
+
+<br/>
 
 ## 🇪🇸 Español
 
@@ -25,44 +22,90 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA), recién egresado y list
 
 **Buscando:** oportunidades como Desarrollador Full Stack Junior, en modalidad remota, presencial o híbrida (Armenia, Quindío y municipios cercanos).
 
-### Proyectos destacados
+### 🛠️ Stack
 
-| Proyecto | Descripción |
-|---|---|
-| 🎓 **Eventos SENA** ([Backend](https://github.com/Eventos-Sena/BackEnd_TS) · [Frontend](https://github.com/Eventos-Sena/FrontEnd)) | Sistema de gestión de eventos para el área de Bienestar del Aprendiz del SENA, desarrollado en equipo (backend en TypeScript + frontend). |
-| 🏁 **[Vortex](https://github.com/Juanmatallana2003/Vortex-Sena)** | Proyecto formativo de presentación final del tecnólogo. En proceso de mejora. |
-| 🏦 **[BancoCy](https://github.com/Juanmatallana2003/BancoCy)** | Demo de un sistema bancario (login y transferencias) construido para practicar pruebas automatizadas end-to-end con Cypress. |
-| 🖥️ **[NOXARA](https://github.com/Juanmatallana2003/NOXARA)** | Prototipo de marketplace de tecnología para la compra de componentes de PC (torres, periféricos, setups). |
-| 🌐 **Landing pages** ([Depiel](https://github.com/Juanmatallana2003/Depiel) · [CesarGym](https://github.com/Juanmatallana2003/CesarGym)) | Diseño y desarrollo de sitios de una sola página para negocios locales de Armenia, Quindío. Proyectos demostrativos. |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,git,github,html,css" alt="Tech stack"/>
+</p>
 
-### Contacto
+### 🚀 Proyectos destacados
 
-📧 adijuab@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-bernal-matallana-17973438b/) · 📱 +57 310 393 5679
+<table>
+<tr>
+<td align="center">🎓</td>
+<td><b><a href="https://github.com/Eventos-Sena/BackEnd_TS">Eventos SENA</a></b><br/><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td>Sistema de gestión de eventos para Bienestar del Aprendiz, desarrollado en equipo (<a href="https://github.com/Eventos-Sena/BackEnd_TS">backend</a> + <a href="https://github.com/Eventos-Sena/FrontEnd">frontend</a>).</td>
+</tr>
+<tr>
+<td align="center">🏁</td>
+<td><b><a href="https://github.com/Juanmatallana2003/Vortex-Sena">Vortex</a></b><br/><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td>Proyecto formativo de presentación final del tecnólogo. En mejora continua.</td>
+</tr>
+<tr>
+<td align="center">🏦</td>
+<td><b><a href="https://github.com/Juanmatallana2003/BancoCy">BancoCy</a></b><br/><img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/></td>
+<td>Demo de sistema bancario (login y transferencias) para practicar pruebas automatizadas end-to-end.</td>
+</tr>
+<tr>
+<td align="center">🖥️</td>
+<td><b><a href="https://github.com/Juanmatallana2003/NOXARA">NOXARA</a></b><br/><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+<td>Prototipo de marketplace de tecnología: torres, periféricos y setups para PC.</td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><b><a href="https://github.com/Juanmatallana2003/Depiel">Depiel</a></b> · <b><a href="https://github.com/Juanmatallana2003/CesarGym">CesarGym</a></b></td>
+<td>Landing pages demostrativas para negocios locales de Armenia, Quindío.</td>
+</tr>
+</table>
 
----
+<br/>
 
 ## 🇬🇧 English <a name="english"></a>
 
-Software Analysis and Development graduate (SENA, Colombia), ready to start my professional internship (etapa productiva). I build full stack web applications with JavaScript, TypeScript, Python, and Java, with hands-on team experience gained at SENA's Software Factory.
+Software Analysis and Development graduate (SENA, Colombia), ready to start my professional internship. I build full stack web applications with JavaScript, TypeScript, Python, and Java, with hands-on team experience gained at SENA's Software Factory.
 
-**Looking for:** Full Stack Junior Developer opportunities — remote, on-site, or hybrid (based in Armenia, Quindío, Colombia; open to on-site roles nearby).
+**Looking for:** Full Stack Junior Developer roles — remote, on-site, or hybrid (based in Armenia, Quindío, Colombia; open to on-site roles nearby).
 
-### Featured projects
-
-| Project | Description |
-|---|---|
-| 🎓 **SENA Events System** ([Backend](https://github.com/Eventos-Sena/BackEnd_TS) · [Frontend](https://github.com/Eventos-Sena/FrontEnd)) | Event management system for SENA's student wellness department, built collaboratively (TypeScript backend + frontend). |
-| 🏁 **[Vortex](https://github.com/Juanmatallana2003/Vortex-Sena)** | Capstone project for my degree program. Currently being upgraded toward a fully production-ready version. |
-| 🏦 **[BancoCy](https://github.com/Juanmatallana2003/BancoCy)** | Demo banking application (login & transfers) built to practice end-to-end automated testing with Cypress. |
-| 🖥️ **[NOXARA](https://github.com/Juanmatallana2003/NOXARA)** | Marketplace prototype for PC components and tech setups. |
-| 🌐 **Landing pages** ([Depiel](https://github.com/Juanmatallana2003/Depiel) · [CesarGym](https://github.com/Juanmatallana2003/CesarGym)) | Single-page sites designed and built for local businesses in Armenia, Colombia. Demo projects. |
-
-### Contact
-
-📧 adijuab@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-bernal-matallana-17973438b/) · 📱 +57 310 393 5679
-
----
+### 🛠️ Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmatallana2003&layout=compact&hide=CSS,HTML&theme=tokyonight&langs_count=6" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,git,github,html,css" alt="Tech stack"/>
 </p>
+
+### 🚀 Featured projects
+
+<table>
+<tr>
+<td align="center">🎓</td>
+<td><b><a href="https://github.com/Eventos-Sena/BackEnd_TS">SENA Events System</a></b><br/><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td>Event management system for SENA's student wellness department, built collaboratively (<a href="https://github.com/Eventos-Sena/BackEnd_TS">backend</a> + <a href="https://github.com/Eventos-Sena/FrontEnd">frontend</a>).</td>
+</tr>
+<tr>
+<td align="center">🏁</td>
+<td><b><a href="https://github.com/Juanmatallana2003/Vortex-Sena">Vortex</a></b><br/><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td>Capstone project for my degree program. Currently being upgraded toward a production-ready version.</td>
+</tr>
+<tr>
+<td align="center">🏦</td>
+<td><b><a href="https://github.com/Juanmatallana2003/BancoCy">BancoCy</a></b><br/><img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/></td>
+<td>Demo banking application (login & transfers) built to practice end-to-end automated testing.</td>
+</tr>
+<tr>
+<td align="center">🖥️</td>
+<td><b><a href="https://github.com/Juanmatallana2003/NOXARA">NOXARA</a></b><br/><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+<td>Marketplace prototype for PC components and tech setups.</td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><b><a href="https://github.com/Juanmatallana2003/Depiel">Depiel</a></b> · <b><a href="https://github.com/Juanmatallana2003/CesarGym">CesarGym</a></b></td>
+<td>Demo landing pages built for local businesses in Armenia, Colombia.</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Juanmatallana2003&label=Profile%20views&color=1F3864&style=flat" alt="Profile views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:1F3864&height=100&section=footer" width="100%"/>
